@@ -1,5 +1,5 @@
 # MonkeyType Automation 
->[MonkeyType]("https://monkeytype.com/") using Python modules like Selenium and PyAutoGUI
+>[MonkeyType](https://monkeytype.com/ "MonkeyTpye Home") using Python modules like Selenium and PyAutoGUI
 ---
 ## General Information
 ---
