@@ -7,12 +7,12 @@ Monkeytype is typing speed test website. This mini-project intends to maximize t
 
 ## Selenium Version
 
-Selenium version @4.12.1
+>Selenium version @4.12.1
 ---
 
 ## PyAutoGUI Version
 
-PyAutoGUI version @0.9.54
+>PyAutoGUI version @0.9.54
 ---
 
 ## Description
