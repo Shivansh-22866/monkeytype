@@ -1759,3 +1759,57 @@ JavaScript warning: https://pagead2.googlesyndication.com/bg/y--OXqz7ADyygIpSoni
 1693901897624	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
 JavaScript warning: https://pagead2.googlesyndication.com/bg/cZSlmfR8SDt076FNoYIuLG5p7zquw_7CpDxGN0dSu4o.js line 2 > eval line 3111 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
 JavaScript warning: https://pagead2.googlesyndication.com/bg/y--OXqz7ADyygIpSoni6phyCHaVIcLrPPWSypIROD28.js line 2 > eval line 7605 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1693902319486	geckodriver	INFO	Listening on 127.0.0.1:60861
+1693902322541	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60862" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileQw4UkZ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693902322896	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693902323004	Marionette	INFO	Listening on port 60869
+WebDriver BiDi listening on ws://127.0.0.1:60862
+Read port: 60869
+1693902323196	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60862/devtools/browser/6c1ef95a-3e02-4843-b713-0db3f84a7626
+JavaScript warning: https://cdn.intergient.com/pageos/1.10.13/videoCard.e9a12be02bf0a5088f3e.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 121: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript warning: https://z.moatads.com/playwireprebidheader597261727146/moatheader.js, line 145: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 121: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript warning: https://pagead2.googlesyndication.com/bg/y--OXqz7ADyygIpSoni6phyCHaVIcLrPPWSypIROD28.js line 2 > eval line 6270 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.intergi.com/hera/releases/4.6.40/main.19ed704851997fcb8bb4.js, line 1: Script terminated by timeout at:
+c@https://cdn.intergi.com/hera/releases/4.6.40/main.19ed704851997fcb8bb4.js:1:19399
+3778/m/</</e<@https://cdn.intergi.com/hera/releases/4.6.40/main.19ed704851997fcb8bb4.js:1:21786
+3778/m/</<@https://cdn.intergi.com/hera/releases/4.6.40/main.19ed704851997fcb8bb4.js:1:22046
+3778/m/<@https://cdn.intergi.com/hera/releases/4.6.40/main.19ed704851997fcb8bb4.js:1:21671
+m@https://cdn.intergi.com/hera/releases/4.6.40/main.19ed704851997fcb8bb4.js:1:21620
+3167/Z/<@https://cdn.intergi.com/hera/releases/4.6.40/main.19ed704851997fcb8bb4.js:1:13131
+u@https://cdn.intergi.com/hera/releases/4.6.40/main.19ed704851997fcb8bb4.js:1:40678
+1393/Se/</<@https://cdn.intergi.com/hera/releases/4.6.40/main.19ed704851997fcb8bb4.js:1:88140
+c@https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202308310101/pubads_impl.js:10:351855
+Vq/</</</<@https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202308310101/pubads_impl.js:10:241496
+vg/<@https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202308310101/pubads_impl.js:10:29844
+Cg@https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202308310101/pubads_impl.js:10:30059
+Vq/</</<@https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202308310101/pubads_impl.js:10:241439
+St@https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202308310101/pubads_impl.js:10:97776
+Ut/this.next@https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202308310101/pubads_impl.js:10:98075
+b@https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202308310101/pubads_impl.js:10:98326
+
+1693902396187	Marionette	INFO	Stopped listening on port 60869
+Dynamically enable window occlusion 1
+1693902399075	geckodriver	INFO	Listening on 127.0.0.1:59541
+1693902402140	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59542" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofilerbkVoN"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693902402647	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693902402800	Marionette	INFO	Listening on port 59552
+Read port: 59552
+WebDriver BiDi listening on ws://127.0.0.1:59542
+1693902402881	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59542/devtools/browser/74543494-1f60-44c5-8dd5-8edb35e9193f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://monkeytype.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://monkeytype.com."
+JavaScript warning: https://cdn.intergient.com/pageos/1.10.13/videoCard.e9a12be02bf0a5088f3e.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 121: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 121: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript warning: https://z.moatads.com/playwireprebidheader597261727146/moatheader.js, line 145: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/y--OXqz7ADyygIpSoni6phyCHaVIcLrPPWSypIROD28.js line 2 > eval line 311 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
