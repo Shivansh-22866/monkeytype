@@ -17,7 +17,7 @@ Monkeytype is typing speed test website. This mini-project intends to maximize t
 
 ## Description
 This python script automates the typing process in monketype.com and changes the theme by itself.
-The browser used here is Firefox for convienience.
+The browser used here is Firefox for convenience.
 
 ## Results
 Three videos have been attached showing the maximum speed provided using the script.
