@@ -1,0 +1,21 @@
+1694497192125	geckodriver	INFO	Listening on 127.0.0.1:57498
+1694497195191	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57499" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileiCx23p"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694497195795	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694497195986	Marionette	INFO	Listening on port 57507
+WebDriver BiDi listening on ws://127.0.0.1:57499
+Read port: 57507
+1694497196303	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57499/devtools/browser/f63e5188-a62d-450e-abab-00c006ad5184
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 759))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 411))
+JavaScript warning: https://cdn.intergient.com/pageos/1.10.13/videoCard.e9a12be02bf0a5088f3e.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 121: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript warning: https://z.moatads.com/playwireprebidheader597261727146/moatheader.js, line 145: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 121: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript warning: https://pagead2.googlesyndication.com/bg/GMNNf8dPzMFRWE2GFsJAeeYNxVBqAV2Fx36SZG50-nU.js line 2 > eval line 1028 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://d25lqe4mlyaln6.cloudfront.net./script.js line 1 > Function, line 4: TypeError: t is null
+1694497273803	Marionette	INFO	Stopped listening on port 57507
+Dynamically enable window occlusion 1
