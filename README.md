@@ -4,6 +4,7 @@
 ## General Information
 ---
 Monkeytype is typing speed test website. This mini-project intends to maximize the wpm along with some other simple manipulations.
+The demo videos have been uploaded. [Click Here](https://www.youtube.com/channel/UCfhD_VAUPDHEnSouTMqu7jQ/ "Demo Videos")
 
 ## Selenium Version
 
