@@ -5,7 +5,7 @@
 ---
 Monkeytype is typing speed test website. This mini-project intends to maximize the wpm along with some other simple manipulations.
 The demo videos have been uploaded. [Click Here](https://www.youtube.com/channel/UCfhD_VAUPDHEnSouTMqu7jQ/ "Demo Videos")
-### Maximum WPM acheived -> 532 wpm with 100% accuracy
+#### Maximum WPM acheived -> 532 wpm with 100% accuracy
 
 ## Selenium Version
 
